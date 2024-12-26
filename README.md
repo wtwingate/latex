@@ -1,2 +1,3 @@
 # documents
-Various and sundry documents
+
+Various and sundry LaTeX documents
